@@ -30,8 +30,8 @@ Explore some of my noteworthy projects and contributions:
 
 Connect with me through the following channels:
 
-- **LinkedIn:** [Ahmad Malik](https://www.linkedin.com/in/malik-ahmad-mukhtar/)
-- **Instagram:** [ya_its_ahmad](instagram.com/ya_its_ahmad)
+- **LinkedIn:** [Awais](https://www.linkedin.com/in/muhammad-awais-a0972726b/)
+- **Instagram:** [Awais](instagram.com/mawaispunjabi)
 - **Email:** [mawaisakhter0@gmail.com](mailto:mawaisakhter0@gmail.com)
 
 ## 🌐 Portfolio Website
