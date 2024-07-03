@@ -1,7 +1,7 @@
 
 ## 🌟 About Me
 
-Hey! I am Muhammad Awais, a technology loving student. I am proficient in developing with PHP and JavaScript. I enjoy solving complex problems. I try to create elegant solutions..
+Hey! I am Muhammad Awais, a technology loving student. I am proficient in developing with PHP and JavaScript. I enjoy solving complex problems. I try to create elegant solutions.
 
 ## 🚀 Tools & Technologies
 
