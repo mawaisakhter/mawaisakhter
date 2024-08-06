@@ -5,7 +5,7 @@ Hey! I am Muhammad Awais, a technology loving student. I am proficient in develo
 
 ## 🚀 Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,php,mysql,mongodb,nodejs,expressjs,react,tailwindcss,bootstrap,vscode,github&perline=4)](https://github.com/mawaisakhter)
+[![My Skills](https://skillicons.dev/icons?i=js,php,laravel,mysql,mongodb,nodejs,expressjs,react,tailwindcss,bootstrap,vscode,github&perline=4)](https://github.com/mawaisakhter)
 
 ## 🌱 Continuous Learning
 
