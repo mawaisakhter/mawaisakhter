@@ -25,5 +25,5 @@ Discover more about my journey and portfolio on my [Website Coming Soon](https:/
 
 ## 🤝 Let's Collaborate
 
-I am open to exciting opportunities, collaborations, or simply engaging in insightful conversations. Reach out, and let's create something exceptional together!
+I am open to exciting opportunities, collaborations, or simply engaging in insightful conversations. Reach out, and let's create something exceptional together! 😺 
 
