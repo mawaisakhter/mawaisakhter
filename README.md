@@ -11,13 +11,6 @@ Hey! I am Muhammad Awais, a technology loving student. I am proficient in develo
 
 I stay up-to-date with the latest technology trends. Right now, I'm focused on web development, exploring new ideas, and sharpening my skills.
 
-## 💼 Projects
-
-Here are some of the projects I've been working on:
-
-1. Dynamic Quiz App (Laravel)
-Developed a fully dynamic quiz platform with an admin panel to manage questions and answers.
-Features real-time feedback with correct answers displayed if the user selects the wrong option.
 
 ## 📫 Contact Information
 
