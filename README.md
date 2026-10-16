@@ -1,95 +1,149 @@
-## 👋 About Me
+# Hi there, I'm Muhammad Awais! 👋
 
-Hi, I'm **Muhammad Awais** — a Full-Stack Developer with **3+ years of experience** building scalable web, mobile, desktop, and SaaS applications.
+### Full-Stack Developer | MERN Stack | SaaS | Mobile & Desktop Applications
 
-I mainly work with the **MERN Stack** and have hands-on experience in frontend development, backend APIs, database design, business software, mobile applications, SaaS platforms, and desktop applications using **Electron**.
+I'm a passionate **Full-Stack Developer with 3+ years of experience**, specializing in building scalable, secure, and user-friendly web, mobile, desktop, and SaaS applications.
 
-Currently, I am working on **Smart Inventory**, a complete business and inventory management platform with **Web + Android** support and both **Online + Offline** workflows.
+I primarily work with the **MERN Stack**, focusing on modern frontend development, robust backend architectures, RESTful APIs, database optimization, and real-world business solutions.
 
-## 🚀 Tools & Technologies
+Currently, I'm developing **Smart Inventory**, a comprehensive business management platform supporting **Web + Android** with **Online + Offline** capabilities.
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,electron,tailwind,bootstrap,html,css,git,github,vscode\&perline=6)](https://github.com/mawaisakhter)
+---
 
-### Technologies I Work With
+## 🚀 Tech Stack & Tools
 
-* JavaScript
-* React.js
-* React Native / Expo
-* Node.js
-* Express.js
-* MongoDB
-* Redux Toolkit
-* Electron.js
-* Tailwind CSS
-* Bootstrap
-* REST APIs
-* Git & GitHub
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redux,electron,tailwind,bootstrap,html,css,git,github,vscode&perline=7)](https://github.com/mawaisakhter)
 
-## 💼 Experience
+### 💻 Frontend Development
+- JavaScript (ES6+)
+- React.js
+- Redux Toolkit
+- Tailwind CSS & Bootstrap
+- HTML5 & CSS3
+- Responsive Web Design
 
-I have **3+ years of software development experience**, working on real-world applications, business management systems, and SaaS products.
+### ⚙️ Backend Development
+- Node.js & Express.js
+- RESTful API Development
+- MongoDB & Database Design
+- Authentication & Authorization
+- Role-Based Access Control (RBAC)
+- Multi-Tenant SaaS Architecture
 
-My main areas of experience include:
+### 📱 Mobile & Desktop Development
+- React Native & Expo
+- Android Application Development
+- Electron.js
+- Offline-First Architecture
+- Data Synchronization & Conflict Handling
 
-* Full-Stack Web Development
-* SaaS Application Development
-* Desktop Applications with Electron
-* Mobile App Development
-* REST API Development
-* Inventory & ERP Systems
-* Offline-First Applications
-* Database Design
-* Authentication & Role-Based Access
-* Multi-Tenant Systems
-* Business Workflow Automation
+### ☁️ Tools & Deployment
+- Git & GitHub
+- Visual Studio Code
+- VPS & Cloud Deployment
+- API Integration
+- Performance Optimization
+- Security & Debugging
 
-## 🚀 Current Project
+---
 
-### Smart Inventory
+## 💼 Professional Experience
 
-A modern SaaS-based inventory and business management platform designed for multiple business types.
+With **3+ years of hands-on development experience**, I focus on transforming complex business requirements into practical, efficient, and scalable software solutions.
 
-**Key Features:**
+**Areas of Expertise:**
 
-* Web + Android
-* Online + Offline Support
-* SaaS Architecture
-* Sales & Purchases
-* Inventory & Stock Management
-* Customers & Suppliers
-* Multi-Branch Support
-* Multi-User Access
-* Reports & Analytics
-* Role-Based Access
-* Business Management Tools
+- Full-Stack Web Application Development
+- SaaS Product Development
+- Inventory & ERP Systems
+- Business Management Software
+- Android & Desktop Applications
+- REST API Design & Integration
+- Database Architecture & Optimization
+- Multi-Branch & Multi-User Systems
+- Authentication & Access Control
+- Offline & Online Data Synchronization
+- Business Workflow Automation
 
-## 🌱 Continuous Learning
+---
 
-I'm continuously improving my skills in:
+## 🌟 Featured Project
 
-* SaaS Architecture
-* Scalable Backend Systems
-* Mobile Application Development
-* Desktop Application Development
-* Offline Sync & Conflict Handling
-* Software Security
-* Database Optimization
-* System Design
-* Cloud Deployment & DevOps
+### 📦 Smart Inventory — Business Management Platform
 
-## 📫 Contact Me
+**Smart Inventory** is a modern SaaS-based business management solution designed to simplify daily operations for businesses of different sizes and industries.
 
-* **LinkedIn:** [Muhammad Awais](https://www.linkedin.com/in/muhammad-awais-a0972726b/)
-* **Instagram:** [@mawaispunjabi](https://instagram.com/mawaispunjabi)
-* **Email:** [mawaisakhter0@gmail.com](mailto:mawaisakhter0@gmail.com)
-* **GitHub:** [mawaisakhter](https://github.com/mawaisakhter)
+It combines inventory management, sales, purchases, reporting, and business operations into a unified platform.
+
+🌐 **Website:** [smartinventory.io](https://smartinventory.io/)
+
+### ✨ Key Features
+
+- 🌐 Web & Android Applications
+- 🔄 Online & Offline Functionality
+- 📦 Inventory & Stock Management
+- 🛒 Sales & Purchase Management
+- 👥 Customer & Supplier Management
+- 🏢 Multi-Company & Multi-Branch Support
+- 🔁 Inter-Branch Stock Transfers
+- 👨‍💼 Multi-User & Role-Based Access
+- 📊 Reports, Analytics & Profit Tracking
+- 🧾 Billing & Invoicing
+- 📱 Barcode Scanning
+- 🔐 Secure Authentication & Access Control
+- ☁️ SaaS Architecture
+- 🏪 Support for Multiple Business Categories
+
+**Mission:** Making business management simpler, smarter, and more accessible.
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mawaisakhter&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mawaisakhter&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mawaisakhter&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌱 Currently Learning & Improving
+
+- Advanced SaaS Architecture
+- Scalable Backend Systems
+- System Design & Architecture
+- Mobile Application Performance
+- Offline Synchronization & Conflict Resolution
+- Application Security
+- Database Performance & Optimization
+- Cloud Infrastructure & DevOps
+- Software Testing & Automation
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **software development opportunities, freelance projects, technical collaborations, and SaaS product development**.
+
+**Connect with me:**
+
+- 💼 **LinkedIn:** [Muhammad Awais](https://www.linkedin.com/in/muhammad-awais-a0972726b/)
+- 📸 **Instagram:** [@mawaispunjabi](https://instagram.com/mawaispunjabi)
+- 📧 **Email:** [mawaisakhter0@gmail.com](mailto:mawaisakhter0@gmail.com)
+- 💻 **GitHub:** [mawaisakhter](https://github.com/mawaisakhter)
+- 🌐 **Smart Inventory:** [smartinventory.io](https://smartinventory.io/)
+
+---
 
 ## 🌐 Portfolio
 
-Portfolio website coming soon.
+🚧 **Personal portfolio website coming soon!**
 
-## 🤝 Let's Collaborate
+In the meantime, explore my projects and development work here on GitHub.
 
-I'm open to software development opportunities, collaborations, freelance projects, SaaS products, and discussions around web, mobile, and desktop development.
+---
 
-Let's build something useful together. 🚀
+### 💡 "Building practical software solutions that solve real business problems."
+
+Thanks for visiting my profile! Let's build something amazing together. 🚀
