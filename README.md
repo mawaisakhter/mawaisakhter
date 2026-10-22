@@ -96,18 +96,6 @@ It combines inventory management, sales, purchases, reporting, and business oper
 
 **Mission:** Making business management simpler, smarter, and more accessible.
 
----
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mawaisakhter&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mawaisakhter&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mawaisakhter&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌱 Currently Learning & Improving
 
 - Advanced SaaS Architecture
